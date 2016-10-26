@@ -1,6 +1,6 @@
 # Counter Counter
 
-The elusive and nice <code>counter counter</code> by <a href="https://bullg.it">bullgit</a>
+The elusive and nice `counter counter` by [bullgit](https://bullg.it)
 
 ## Usage
 
@@ -18,7 +18,7 @@ The default selector for the container is `#countercounter`
 
 ## Demo
 
-A demo can be see on [bullg.it/counter-counter](bullg.it/counter-counter)!
+A demo can be see on [bullg.it/counter-counter](https://bullg.it/counter-counter)!
 
 ## License
 
