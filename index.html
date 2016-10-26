@@ -99,6 +99,11 @@
     .highlight .vg{color:#dcdccc}
     .highlight .vi{color:#ffffc7}
     .highlight .il{color:#8cd0d3}
+    @media (max-width: 500px) {
+      #badge {
+        display: none;
+      }
+    }
   </style>
 </head>
 <body>
@@ -124,6 +129,6 @@ const c = new CounterCounter('count!', '#demo');
 <script>
   new CounterCounter('#demo');
 </script>
-<!-- <script src="https://bullg.it/badge/badge.js"></script> -->
+<script src="https://bullg.it/badge/badge.js"></script>
 </body>
 </html>
