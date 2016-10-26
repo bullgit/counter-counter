@@ -6,7 +6,7 @@ The elusive and nice <code>counter counter</code> by <a href="https://bullg.it">
 
 Install `counter-counter` via `npm`.
 
-Import the script (or add it via a tag).
+Import the script (or add it via a script tag).
 
 ```js
 import CounterCounter from 'counter-counter';
