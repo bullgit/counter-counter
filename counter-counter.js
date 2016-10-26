@@ -37,3 +37,5 @@ class CounterCounter {
     this.container.appendChild(style);
   }
 }
+
+if (typeof module !== 'undefined') module.exports = CounterCounter;
