@@ -1,0 +1,14 @@
+{
+  "name": "counter-counter",
+  "version": "1.0.0",
+  "description": "Add a nice counter that counts your counters",
+  "main": "counter-counter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "counter",
+    "bullgit"
+  ],
+  "license": "Apache-2.0"
+}
