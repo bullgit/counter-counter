@@ -1,6 +1,6 @@
 {
   "name": "counter-counter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Add a nice counter that counts your counters",
   "main": "counter-counter.js",
   "keywords": [
